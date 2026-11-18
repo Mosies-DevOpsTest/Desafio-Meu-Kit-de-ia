@@ -54,29 +54,59 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+Meu Kit de IA para Transição e Recolocação em TI
+
+Atalho 1 (Analisador de Compatibilidade): Prompt para comparar meu currículo com a descrição de uma vaga e extrair palavras-chave e pontos de melhoria sem inventar dados.
+
+Atalho 2 (Abordagem no LinkedIn): Prompt para redigir mensagens curtas, personalizadas e profissionais para recrutadores sobre vagas abertas.
+
+Tarefa Real Delegada e Acompanhada: Deleguei à IA a redação de uma abordagem para uma vaga real de Suporte Técnico de TI, fornecendo meu histórico de 3 anos de suporte e instalação de softwares (empresas Hilos e Tagma). Acompanhei a geração, revisei o tom da mensagem e aprovei a versão final.
 
 ### Meus Atalhos
 
 _Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
 
 ```text
-Cole aqui o seu primeiro atalho, já adaptado.
+Atalho 1: Analisador de Vagas e Currículo
+"Atue como um especialista em recrutamento e seleção. Vou fornecer o meu currículo atual e a descrição de uma vaga que quero me candidatar.
+Com base nisso, retorne:
+1.	As principais palavras-chave e competências da vaga que estão faltando ou pouco destacadas no meu perfil.
+2.	Sugestões práticas de onde e como posso destacar experiências que já tive para me alinhar melhor aos requisitos.
+3.	Um resumo rápido dos meus pontos fortes para essa vaga.
+Aqui está o meu currículo: [COLE SEU CURRÍCULO]
+Aqui está a vaga: [COLE A DESCRIÇÃO DA VAGA]"
+
 ```
 
 ```text
-Cole aqui o seu segundo atalho, já adaptado.
+Atalho 2: Mensagem de Conexão no LinkedIn
+"Atue como um mentor de carreira. Quero enviar uma mensagem de apresentação curta e profissional para um recrutador no LinkedIn.
+Diretrizes da mensagem:
+•	Máximo de 3 a 4 frases (direta e sem enrolação).
+•	Tom profissional, simpático e seguro.
+•	Mencionar meu interesse na vaga ou na empresa.
+•	Destacar brevemente minha área de atuação e principal habilidade.
+•	Encerrar com um convite sutil para conectar e conversar.
+Área/cargo desejado: [SEU CARGO OU ÁREA]
+Nome do recrutador (se souber): [NOME]
+Vaga ou empresa: [NOME DA EMPRESA / VAGA]"
+
 ```
 
 ### Minha Delegação
 
 ```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
+"Olá, [Nome do Recrutador], tudo bem?
+Acompanho as oportunidades da [Nome da Empresa] e vi a vaga aberta para Suporte Técnico de TI. Tenho 3 anos de experiência prática na área, com vivência em suporte ao usuário, manutenção e instalação de softwares em empresas como Hilos e Tagma.
+Gostaria de me conectar para acompanhar a empresa e, se fizer sentido, conversar sobre como essa minha bagagem pode somar com o time de vocês.
+Obrigado pela atenção e um abraço!"
+
 ```
 
 ### O Plano da IA
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
+Objetivo: Delegar à IA a criação de uma mensagem de abordagem para recrutadores no LinkedIn referente a uma vaga real de Suporte Técnico de TI.
+Estratégia: Criar uma mensagem curta e autêntica, focada em gerar conexão e destacar a minha experiência prática.
 
 ### O Resultado
 
@@ -84,4 +114,4 @@ _Cole o print do resultado e conte como você conferiu antes de usar._
 
 ### Como Foi para Você
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+Foi uma experiencia enriquecedora, pois em poucos minutos conseguir fazer algo que em outras vezes  levei o dia inteiro para 
